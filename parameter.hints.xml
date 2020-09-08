@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+    </blacklists>
+    <option id="java.multiple.params.same.type" value="true" />
+    <option id="java.method.name.contains.parameter.name" value="true" />
+  </component>
+</application>

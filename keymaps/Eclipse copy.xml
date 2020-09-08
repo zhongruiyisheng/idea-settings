@@ -1,0 +1,14 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ClassNameCompletion" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindBugs.ShowQuickSearch" />
+  <action id="HippieCompletion" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="SearchEverywhere.CompleteCommand">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+</keymap>
